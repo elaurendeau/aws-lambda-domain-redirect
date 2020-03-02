@@ -1,0 +1,1 @@
+# aws-lambda-domain-redirect
